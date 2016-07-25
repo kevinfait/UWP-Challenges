@@ -12,7 +12,7 @@
             <Button Name="HomeButton" Content="Home" Click="HomeButton_Click" Margin="0,0,20,0" />
             <Button Name="BackButton" Content="Back" Click="BackButton_Click" Margin="0,0,20,0" />
             <Button Name="ForwardButton" Content="Forward" Click="ForwardButton_Click" Margin="0,0,20,0" />
-            <Button Name="NavigationButton" Content="Navigate Root Frmae" Click="NavigationButton_Click" />
+            <Button Name="NavigationButton" Content="Navigate Root Frame" Click="NavigationButton_Click" />
         </StackPanel>
         <Frame Name="MyFrame">
             
